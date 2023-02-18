@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
  * Description: C program using the printf function
  * Return: Always 0 (success)
  */
